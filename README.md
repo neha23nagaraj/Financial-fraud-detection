@@ -1,4 +1,4 @@
-Enhancing Financial Fraud Detection Using Behavioral Analytics
+*Enhancing Financial Fraud Detection Using Behavioral Analytics*
 
 📌 Fraud Detection Using Machine Learning
 
